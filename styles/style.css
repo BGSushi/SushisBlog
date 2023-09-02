@@ -11,7 +11,7 @@ font-family: 'Montserrat', sans-serif;/* Este debe ser el resto del resultado qu
   text-shadow: 3px 3px 1px black;
 }
 h1 {
-  font-size: 60px;
+  font-size: 50px;
   text-align: center;
 }
 
@@ -27,6 +27,7 @@ body {
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
+
 img {
   display: block;
   margin: 0 auto;
