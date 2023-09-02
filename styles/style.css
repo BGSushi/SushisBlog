@@ -1,5 +1,10 @@
-font-family: 'Montserrat', sans-serif;
-h1 {
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  
+font-family: 'Montserrat', sans-serif;/* Este debe ser el resto del resultado que obtuviste de Google fonts */
+
+}
+  h1 {
   margin: 0;
   padding: 20px 0;
   color: #00539f;
